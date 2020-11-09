@@ -19,7 +19,26 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  path_provider:
   flutter_blue: 0.6.3+1
+  speech_to_text: ^2.4.1
+  percent_indicator: ^2.1.7+4
+  auto_size_text: ^2.1.0
+  flutter_icons: ^1.1.0
+  vibration: ^1.4.0
+  shared_preferences: ^0.5.8
+  flutter_spinkit: "^4.1.2"
+  badges: ^1.1.3
+  flutter_slidable: ^0.5.7
+  slider_button: ^0.6.0
+  file_picker: ^2.0.0
+  random_string: ^2.1.0
+  google_fonts: ^1.1.1
+  diff_match_patch: ^0.3.0
+  bottom_navy_bar: ^5.5.0
+
+
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
